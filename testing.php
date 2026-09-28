@@ -19,7 +19,7 @@
             <!-- Campo Password -->
             <div class="form-group">
                 <label for="password">Password</label>
-                <input type="password" id="password" name="password" placeholder="••••••••" required>
+                <input type="text" id="password" name="password"  required>
             </div>
 
             <!-- Pulsante Accedi -->
